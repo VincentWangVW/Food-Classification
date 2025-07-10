@@ -83,19 +83,6 @@ Used **Optuna** with Tree-structured Parzen Estimator (TPE) for efficient hyperp
 - **Evaluation Metrics**: Precision, Recall, F1-Score for each class
 - **Balanced Performance**: Consistent results across Pizza, Sushi, and Shawarma
 
-## Project Structure
-
-```
-food-classification/
-├── report.pdf              # Detailed project report
-├── pred.py                 # Main prediction script
-├── my_model.npz           # Trained model weights
-├── README.md              # This file
-└── data/
-    ├── train.csv          # Training dataset
-    └── test.csv           # Test dataset
-```
-
 ## Usage
 
 ### Prerequisites
