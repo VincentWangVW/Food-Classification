@@ -136,13 +136,6 @@ The MLP was selected over other models due to:
 - Robust generalization to unseen data
 - Flexibility in capturing complex patterns
 
-## Team Contributors
-
-- **Hanli Jiang** - Data preprocessing (Q1-Q2), model development, prediction script
-- **Rohan Bhalla** - Data preprocessing (Q6, Q8), logistic regression, model selection
-- **Vincent Wang** - Data preprocessing (Q3-Q4), MLP/decision tree models, documentation
-- **Yuchen Wang** - Data preprocessing (Q5, Q7), random forest/XGBoost, feature selection
-
 ## Future Improvements
 
 - **Ensemble Methods**: Combine multiple models for better performance
